@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} QCIG Team. This work is licensed under {license}'
+    notice: '© {year} QCIG Team.'
     license:
       enable: true
       allow_derivatives: false
