@@ -5,9 +5,9 @@
 
 # Appearance
 appearance:
-  theme_day: wow_cherry_custom
-  theme_night: wow_cherry_dark
-  font: custom_font
+  theme_day: 
+  theme_night: style
+  font: Native
   font_size: L
 
 # SEO
