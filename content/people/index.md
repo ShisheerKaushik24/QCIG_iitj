@@ -13,7 +13,7 @@ sections:
       user_groups:
           - President
           - Secretary
-          - Vice Secretary
+          - Joint Secretary
           - Executive Member [Head]
           - Executive Member
           - Core Member [Head]
