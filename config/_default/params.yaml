@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: 
-  theme_night: aga
+  theme_night: minimal
   font: native
   font_size: M
 
