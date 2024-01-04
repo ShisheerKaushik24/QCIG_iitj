@@ -3,10 +3,11 @@ title: "Figuring out the Quantum Domain: A Comprehensive Review of Quantum Mater
 authors:
 - rajat
 - robins
+- et.al
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2023-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +35,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://drive.google.com/file/d/1__7QLldPJ-t2rAho6fjmK7b_WUrXSWTQ/view?usp=sharing
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -71,5 +72,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
