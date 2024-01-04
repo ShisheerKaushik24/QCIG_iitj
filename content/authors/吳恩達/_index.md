@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shisheer S Kaushik 吳恩達
+title: Shisheer S Kaushik
 
 # Full name (for SEO)
 first_name: Shisheer
