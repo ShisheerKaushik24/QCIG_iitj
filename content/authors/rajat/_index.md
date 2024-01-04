@@ -48,10 +48,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'm23iqt004@iitj.ac.in'
-  - icon: linedin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rkg7455/
-  - icon: portfolio
+  - icon: website
     icon_pack: ai
     link: https://rajatkumargoyal123.wixsite.com/quantum
   
