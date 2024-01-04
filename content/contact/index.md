@@ -24,8 +24,8 @@ sections:
         longitude: '73.1134'
       directions: Enter **Student of Administration** Building and take the stairs to **IDRP** Office on Floor 1
       office_hours:
-        - 'Weekdays 10:00 to 17:00'
-        - 'Weekends 10:00 to 13:00'
+        - '**Weekdays:** 10:00 to 17:00'
+        - '**Weekends:** 10:00 to 13:00'
       appointment_url: 'https://iitj.ac.in/qic/'
       #contact_links:
       #  - icon: comments
