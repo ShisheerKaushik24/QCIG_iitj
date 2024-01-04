@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "Figuring out the Quantum Domain: A Comprehensive Review of Quantum Materials and Their Multidisciplinary Applications"
 authors:
-- admin
-- Robert Ford
+- rajat
+- robins
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -10,7 +10,7 @@ date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,10 +21,10 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This review paper comprehensively examines the pivotal role of QMs in modern science and technology. We emphasize the exploration of diverse devices and applications facilitated by the unique properties of QMs. Encompassing fields like quantum computing, metrology, sensing, energy, and communication, the review highlights their transformative potential. This article examines the universe of materials, focusing on the unique characteristics that distinguish them from regular materials. Within the scope of our analysis, we will shed light on a multitude of characteristics. However, the combination of quantum confinement, strong correlations, and the intriguing domain of topological states truly sets these materials apart, making them exceptional in their own regard. The paper's critical insights are related to different types of QMs and their unique properties in detail and how these properties of QMs are related to various interdisciplinary applications and integration with existing technologies. Quantum confinement, strong correlation, and topological states are the main unique properties of QMs, which are discussed in detail here. The review showcases the prospects of QMs in revolutionizing multiple industries by presenting. This study provides a concise overview of diverse discoveries and advancements, presenting a prospective outlook on integrating and commercialising QMs devices in several fields.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This comprehensive review explores the pivotal role of quantum materials (QMs) in modern science and technology, emphasizing their unique properties such as quantum confinement, strong correlations, and topological states, showcasing their transformative potential across various interdisciplinary applications, including quantum computing, metrology, sensing, energy, and communication, and highlighting the prospects of integrating and commercializing QMs devices in multiple industries.
 
 tags:
 - Source Themes
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://drive.google.com/file/d/1__7QLldPJ-t2rAho6fjmK7b_WUrXSWTQ/view?usp=sharing
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
