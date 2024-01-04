@@ -13,6 +13,7 @@ sections:
       user_groups:
           - President
           - Secretary
+          - Additional Secretary
           - Joint Secretary
           - Executive Member [Head]
           - Executive Member
