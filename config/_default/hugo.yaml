@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Quantum Innovators Group # Website name
+title: Quantum Computing Innovators Group # Website name
 baseURL: 'https://qcig-iitj.netlify.app' # Website URL
 
 ############################
