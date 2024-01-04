@@ -20,7 +20,7 @@ sections:
           - Core Member
           - Club Member
           - Event Coordinator
-          - Alumni
+          - Founder
       sort_by: Params.first_name
       sort_ascending: true
     design:
