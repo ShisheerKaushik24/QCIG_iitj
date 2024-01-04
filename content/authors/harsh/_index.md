@@ -6,6 +6,10 @@ title: Harsh Mehta
 first_name: Harsh
 last_name: Mehta
 
+# Username (this should match the folder name)
+authors:
+  - harsh
+  - 
 # Is this the primary user of the site?
 superuser: true
 
