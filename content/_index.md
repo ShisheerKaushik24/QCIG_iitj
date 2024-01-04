@@ -1,21 +1,21 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-10-24
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Quantum Computing
+        Innovators Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Since its establishment in 2023, the **Quantum Computing Innovators Group** has served as a hub of excellence dedicated to the   research, education, and practical application of Quantum Technology.
   
   - block: collection
     content:
