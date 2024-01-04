@@ -24,9 +24,9 @@ sections:
         longitude: '73.1134'
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://iitj.ac.in'
+        - 'Weekdays 10:00 to 17:00'
+        - 'Weekends 10:00 to 13:00'
+      appointment_url: 'https://iitj.ac.in/qic/'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
