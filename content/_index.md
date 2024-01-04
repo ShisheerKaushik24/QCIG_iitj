@@ -33,6 +33,30 @@ sections:
         We welcome you to our quantum computing community, which advances quantum technology. We promote quantum computing innovation and knowledge exchange. Our dynamic activities aim to establish a thriving ecosystem for professionals, enthusiasts, and learners. Join us for enlightening workshops, seminars, and events with in-depth discussions and hands-on experiences. We offer specialised certificate courses to equip people with quantum skills. Let's accelerate the quantum revolution and unleash quantum computing's boundless potential.
         </div>
 
+  - block: markdown
+    content:
+      title: |
+        Mission
+      image:
+        filename: 
+      text: |
+        <br>
+        <div style="text-align: justify;">
+        Our mission is to advance the frontiers of quantum technology by fostering innovation and knowledge exchange within the quantum domain, with a primary focus on quantum computing. Through dynamic initiatives, we aim to create a vibrant ecosystem that brings together experts, enthusiasts, and learners. We organize insightful workshops, seminars, and events to provide a platform for in-depth discussions and hands-on experiences. Additionally, we offer specialized certificate courses to empower individuals with the skills needed to navigate the quantum landscape.
+        </div>
+  
+  - block: markdown
+    content:
+      title: |
+        Vision
+      image:
+        filename: 
+      text: |
+        <br>
+        <div style="text-align: justify;">
+        Our vision is to propel the quantum revolution forward, unlocking the limitless possibilities of quantum computing. We envision a community that drives the exploration and implementation of quantum technologies, contributing to groundbreaking advancements. By building a collaborative and inclusive platform, we strive to be at the forefront of quantum innovation, making quantum computing accessible and transformative for individuals and industries alike.
+        </div>
+        
   - block: collection
     content:
       title: Latest News
