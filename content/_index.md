@@ -26,8 +26,9 @@ sections:
         filename: 
       text: |
         <br>
-
+        <div style="text-align: justify;">
         We welcome you to our quantum computing community, which advances quantum technology. We promote quantum computing innovation and knowledge exchange. Our dynamic activities aim to establish a thriving ecosystem for professionals, enthusiasts, and learners. Join us for enlightening workshops, seminars, and events with in-depth discussions and hands-on experiences. We offer specialised certificate courses to equip people with quantum skills. Let's accelerate the quantum revolution and unleash quantum computing's boundless potential.
+        </div>
 
   - block: collection
     content:
