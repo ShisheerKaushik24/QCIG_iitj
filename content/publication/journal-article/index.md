@@ -28,7 +28,7 @@ abstract: This review paper comprehensively examines the pivotal role of QMs in 
 summary: This comprehensive review explores the pivotal role of quantum materials (QMs) in modern science and technology, emphasizing their unique properties such as quantum confinement, strong correlations, and topological states, showcasing their transformative potential across various interdisciplinary applications, including quantum computing, metrology, sensing, energy, and communication, and highlighting the prospects of integrating and commercializing QMs devices in multiple industries.
 
 tags:
-- Source Themes
+- Quantum Material
 featured: false
 
 # links:
