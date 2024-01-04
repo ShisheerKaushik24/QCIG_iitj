@@ -3,13 +3,6 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
-appearance:
-  theme_day: wow_cherry_custom
-  theme_night: wow_cherry_dark
-  font: custom_font
-  font_size: L
-
 # Custom Styles
 styles:
   wow_cherry_custom:
@@ -28,6 +21,14 @@ styles:
 text:
   font: 'Roboto, Arial, sans-serif'
   font_size: 16px
+
+# Appearance
+appearance:
+  theme_day: wow_cherry_custom
+  theme_night: wow_cherry_dark
+  font: custom_font
+  font_size: L
+
 # SEO
 
 marketing:
