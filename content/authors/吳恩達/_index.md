@@ -14,32 +14,30 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master Student of Quantum Technologies
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Indian Institute of Technology, Jodhpur
+    url: 'https://iitj.ac.in/qic/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Computation
+  - Quantum Communication
+  - Quantum Sensing & Imaging
+  - IoT & Wireless Sensor Network
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Tech in Quantum Technologies
+      institution: Indian Institute of Technology, Jodhpur
+      year: 2023
+    - course: BEng in Electronics & Communication
+      institution: BNM Institute of Technology
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,13 +46,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'm23iqt006@iitj.ac.in'
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.linkedin.com/in/shisheerkaushik24/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Agusthya1
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Uc2AMO4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -73,6 +74,4 @@ user_groups:
   - Executive Member
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Shisheer S Kaushik is currently pursuing a post-graduate degree specializing in Quantum Technologies from Indian Institute of Technology, Jodhpur. He got to know about Quantum computing just about two years ago, but he catches up fast. Over the past 26 months, he has actively participated in numerous conferences, workshops, and hackathons and is an engaged member of the Qworld Association community, where he has mentored several events. Moreover, he has reasonable experience using frameworks like 'Qiskit', 'Cirq' SDK's for programming.
