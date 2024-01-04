@@ -15,7 +15,7 @@ role: Master Student of Quantum Technologies
 # Organizations/Affiliations
 organizations:
   - name: Indian Institute of Technology, Jodhpur
-    url: ''
+    url: 'https://iitj.ac.in/qic/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -26,15 +26,13 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Tech in Quantum Technologies
+      institution: Indian Institute of Technology, Jodhpur
+      year: 2023
+    - course: B.Tech in Computer Science
+      institution: Dr. A.P.J. Abdul Kalam Technical University
+      year: 2021
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -43,16 +41,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'm23iqt007@iitj.ac.in'
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.linkedin.com/in/sumit-kumar-690869195/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Sumitkumar-curio
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +67,13 @@ user_groups:
   - Founder
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Quantum Computing Enthusiast.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+-Quantum Algorithm and optimization.
+
+-IT and automation-related tasks, including Managed File Transfer (MFT), Incident Management, ServiceNow, Mulesoft, Smart Automation (SA), and Testing.
+
+-Programming Skills - Python and C++.
+Qiskit || Cirq
+
+-Other - SEO, Digital marketing, Prompt Engineer.
