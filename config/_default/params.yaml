@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  theme_day: company
-  theme_night: 
+  theme_day: 
+  theme_night: aga 
   font: Native
   font_size: M
 
