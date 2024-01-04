@@ -46,9 +46,9 @@ footer:
   copyright:
     notice: '© {year} QCIG Team. This work is licensed under {license}'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
-      share_alike: false
+      share_alike: true
       allow_commercial: false
 
 # Localization
@@ -90,7 +90,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider:
     algolia:
       app_id: ''
       api_key: ''
@@ -108,7 +108,7 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: true
+    enable: false
 
 # Citation style
 
