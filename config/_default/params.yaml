@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: 
+  theme_night: aga
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
