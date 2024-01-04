@@ -4,13 +4,30 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: native
-  font_size: M
+  theme_day: wow_cherry_custom
+  theme_night: wow_cherry_dark
+  font: custom_font
+  font_size: L
 
+# Custom Styles
+styles:
+  wow_cherry_custom:
+    background_color: "#F5F5F5"
+    text_color: "#333333"
+    link_color: "#0066CC"
+    heading_color: "#FF4500"
+
+  wow_cherry_dark:
+    background_color: "#1A1A1A"
+    text_color: "#CCCCCC"
+    link_color: "#3399FF"
+    heading_color: "#FF8C00"
+
+# Text customization
+text:
+  font: 'Roboto, Arial, sans-serif'
+  font_size: 16px
 # SEO
 
 marketing:
