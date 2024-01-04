@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-     - course: M.Tech in Quantum Technologies
+    - course: M.Tech in Quantum Technologies
       institution: Indian Institute of Technology, Jodhpur
       year: 2023
     - course: MSc in Physics
