@@ -21,9 +21,9 @@ sections:
     content:
       title: |
         Welcome..!<br>
-        **Know More About Us**
+        Know More About Us
       image:
-        filename: welcome.jpg
+        filename: 
       text: |
         <br>
 
