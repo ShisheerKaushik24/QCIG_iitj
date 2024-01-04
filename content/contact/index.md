@@ -20,8 +20,8 @@ sections:
         country: India
         country_code: IN
       coordinates:
-        latitude: '26.4710'
-        longitude: '73.1134'
+        latitude: '26.471155936104132'
+        longitude: '73.11309665953857'
       directions: Enter **Student of Administration** Building and take the stairs to **IDRP** Office on Floor 1
       office_hours:
         - '**Weekdays:** 10:00 to 17:00'
