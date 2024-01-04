@@ -1,34 +1,10 @@
 # Theme metadata
 name = "aga"
 
-# Is theme light or dark?
-#light = true
-is_light = false
-
-# Primary
-primary = "#e7a200"
-#primary_light =
-#primary_dark =
-
-# Menu
-menu_primary = "#d4c1ec"
-menu_text = "#000"
-menu_text_active = "#e7a200"
-menu_title = "#000"
-
-# Backgrounds
-#background = "#000"
-home_section_odd = "#e9efff"
-home_section_even = "#d8ebff"
-
-# Links
-link = "#e7a200"
-link_hover = "#e7a200"
-
 [dark]
   # Primary
   primary = "#f6bd4b"
-  
+
   # Menu
   menu_primary = "#54455D"
   menu_text = "#fef9ff"
@@ -39,7 +15,7 @@ link_hover = "#e7a200"
   #background = "#000"
   home_section_odd = "#0E1029"
   home_section_even = "#0E1037"
-  
+
   # Links
   link = "#f6bd4b"
   link_hover = "#f6bd4b"
