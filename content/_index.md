@@ -20,7 +20,7 @@ sections:
     
         </div>
 
-  - block: hero
+  - block: markdown
     content:
       title: |
         Welcome..!<br>
