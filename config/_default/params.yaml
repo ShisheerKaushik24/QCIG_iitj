@@ -5,6 +5,7 @@
 
 # Appearance
 appearance:
+  color: green
   theme_day: 'aga'
   theme_night: 'aga'
   font: edo
