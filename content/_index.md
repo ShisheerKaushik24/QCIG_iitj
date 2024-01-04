@@ -11,7 +11,7 @@ sections:
         Quantum Computing
         Innovators Group
       image:
-        filename: welcome.jpg
+        filename: welcome.png
       text: |
         <br>
         <div style="text-align: justify;">
