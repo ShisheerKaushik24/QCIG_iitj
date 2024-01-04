@@ -14,32 +14,31 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master Student of Quantum Technologies
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Indian Institute of Technology, Jodhpur
+    url: 'https://iitj.ac.in/qic/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Materials
+  - Nano Sensing
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+     - course: M.Tech in Quantum Technologies
+      institution: Indian Institute of Technology, Jodhpur
+      year: 2023
+    - course: MSc in Physics
+      institution: National Institute of Technology, Rourkela
+      year: 2022
+    - course: BSc in Physics
+      institution: Delhi University
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +47,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'm23iqt004@iitj.ac.in'
+  - icon: linedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
+    link: https://www.linkedin.com/in/rkg7455/
+  - icon: portfolio
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://rajatkumargoyal123.wixsite.com/quantum
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +70,4 @@ user_groups:
   - Founder
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a passionate, experimental physicist currently pursuing an MTech in Quantum Technology, focusing on 2D Quantum Materials-based Photodetectors. With a strong foundation in materials science, I completed my master's degree with a project centred on the synthesis, impedance analysis, and characterization of perovskite materials. My goal is to further my academic journey by pursuing a PhD abroad, where I can contribute to cutting-edge research in the field of quantum technology. I am enthusiastic about exploring new horizons in experimental physics and leveraging my expertise to address pressing scientific challenges.
