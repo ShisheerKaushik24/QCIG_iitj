@@ -15,7 +15,7 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
+    local_business_type: 'ProfessionalService'
     org_name: ''
     description: 'A Quantum Computing Innovators Group.'
     twitter: 'GetResearchDev'
