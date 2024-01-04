@@ -51,7 +51,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/shisheerkaushik24/
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=Uc2AMO4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
