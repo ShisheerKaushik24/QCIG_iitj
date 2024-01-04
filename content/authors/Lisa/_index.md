@@ -8,7 +8,7 @@ last_name: Roy
 
 # Username (this should match the folder name)
 authors:
-  - robins
+  - Lisa
 
 # Is this the primary user of the site?
 superuser: false
