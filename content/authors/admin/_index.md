@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sumit Kumar
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Sumit
+last_name: Kuamar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master Student of Quantum Technologies
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Indian Institute of Technology, Jodhpur
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,8 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Computing
 
 education:
   courses:
@@ -69,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Secretary
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
