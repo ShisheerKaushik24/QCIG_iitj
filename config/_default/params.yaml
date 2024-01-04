@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  theme_day: aga
-  theme_night: aga
+  theme_day: ''
+  theme_night: 'aga'
   font: edo
   font_size: M
 
