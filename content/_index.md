@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         <div style="text-align: justify;">
-        Since its establishment in 2023, the **Quantum Computing Innovators Group** has served as a hub of excellence dedicated to the   research, education, and practical application of Quantum Technology.
+          Since its establishment in 2023, the **Quantum Computing Innovators Group** has served as a hub of excellence dedicated to the   research, education, and practical application of Quantum Technology.
         </div>
 
   - block: hero
