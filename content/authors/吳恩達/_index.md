@@ -26,8 +26,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Quantum Computation
-  - Quantum Communication
-  - Quantum Sensing & Imaging
+  - Quantum Machine Learning
+  - Quantum Complexity Theory
   - IoT & Wireless Sensor Network
 
 education:
