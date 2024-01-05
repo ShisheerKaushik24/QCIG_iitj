@@ -1,7 +1,7 @@
 ---
 title: "Implementation of Quantum-Text Steganography using BB84 protocol on an Interactive Module"
 authors:
-- admin
+- 吳恩達
 date: "2022-04-07T00:00:00Z"
 doi: ""
 
