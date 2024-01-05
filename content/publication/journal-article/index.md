@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Quantum Materials, 1*(1)"
 publication_short: ""
 
 abstract: This review paper comprehensively examines the pivotal role of QMs in modern science and technology. We emphasize the exploration of diverse devices and applications facilitated by the unique properties of QMs. Encompassing fields like quantum computing, metrology, sensing, energy, and communication, the review highlights their transformative potential. This article examines the universe of materials, focusing on the unique characteristics that distinguish them from regular materials. Within the scope of our analysis, we will shed light on a multitude of characteristics. However, the combination of quantum confinement, strong correlations, and the intriguing domain of topological states truly sets these materials apart, making them exceptional in their own regard. The paper's critical insights are related to different types of QMs and their unique properties in detail and how these properties of QMs are related to various interdisciplinary applications and integration with existing technologies. Quantum confinement, strong correlation, and topological states are the main unique properties of QMs, which are discussed in detail here. The review showcases the prospects of QMs in revolutionizing multiple industries by presenting. This study provides a concise overview of diverse discoveries and advancements, presenting a prospective outlook on integrating and commercialising QMs devices in several fields.
