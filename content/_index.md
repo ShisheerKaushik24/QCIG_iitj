@@ -20,7 +20,6 @@ sections:
     
         </div>
 
-sections:
   - block: slider
     content:
       slides:
