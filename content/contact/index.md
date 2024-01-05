@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         
-      email: quantum@iitj.ac.in
+      email: qgc.iitj@gmail.com
       phone: 0291-2801602
       address:
         street: NH 62, Surpura Bypass Rd
