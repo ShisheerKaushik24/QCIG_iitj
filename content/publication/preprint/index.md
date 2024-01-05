@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Implementation of Quantum-Text Steganography using BB84 protocol on an Interactive Module"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2022-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,20 +17,18 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: In the modern online era, the privacy of individuals and organizations is decreasing day by day. The search of high encryption standards with the use of keys always ends up in encryption techniques like AES, DES but they are suspected to be vulnerable to Quantum Computers. To tackle this respective dispute, this paper proposes a quantum steganographytechnique administered by BB84 key distribution protocol. This protocol uses plain text encoded into the cover file which dissociates the secret message dispatched between multiple parties. Subsequently, a stego object is created without altering the content of plain text which contain the secret message. These embedded messages are incorporated as phases of the entangled states and ultimately shared among respective parties in prior as a quantum keys, which are later utilized during retrieving the secret message from stego object by the corresponding party.
 
 tags:
-- Source Themes
+- Quantum Communication
+  
 featured: false
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 
+url_code: 'https://github.com/ShisheerKaushik24/Quantum_projects/tree/master/Quantum-Secure-Communication-via-Steganography'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -41,7 +39,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -60,9 +58,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
