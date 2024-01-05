@@ -32,10 +32,7 @@ education:
     - course: BSc in Chemistry
       institution: Indian Institute of Technology, Jodhpur
       year: 2023
-    - course: BEng in Computer Engineering
-      institution: Vishwakarma Government Engineering College
-      year: 2022
-
+  
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
