@@ -1,6 +1,6 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: First meet of Quantum Computing Innovators Group
+date: 2024-01-03
 image:
   focal_point: 'top'
 ---
