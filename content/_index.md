@@ -18,7 +18,6 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-        
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
@@ -29,7 +28,6 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-        
       - title: Group Icon
         content: 'Just opened last month!'
         align: right
@@ -40,7 +38,6 @@ sections:
               brightness: 0.7
           position: center
           color: '#333'
-        
       - title: World-Class Semiconductor Lab
         content: 'Just opened last month!'
         align: right
@@ -63,7 +60,12 @@ sections:
         Quantum Computing
         Innovators Group
       image:
-        filename: welcome.png
+        - block: slider
+          filename: welcome.png
+          filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
       text: |
         <br>
         <div style="text-align: justify;">
