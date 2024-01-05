@@ -60,12 +60,7 @@ sections:
         Quantum Computing
         Innovators Group
       image:
-        - block: slider
-          filename: welcome.png
-          filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
+        filename: welcome.png
       text: |
         <br>
         <div style="text-align: justify;">
