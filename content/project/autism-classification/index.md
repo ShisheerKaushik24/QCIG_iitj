@@ -2,6 +2,8 @@
 title: "Autism Disease Detection Using Quantum Transfer Learning Techniques"
 authors:
 - 吳恩達
+- thiru
+- haris
 date: 2023-09-12
 summary: This project integrates quantum processing into a classical deep learning pipeline, demonstrating the potential of quantum convolution in image classification tasks. The readme file could further discuss the implications of combining quantum and classical approaches and interpret the training results.
 draft: false
