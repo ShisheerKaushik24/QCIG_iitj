@@ -29,7 +29,7 @@ interests:
   
 education:
   courses:
-    - course: BSc in Chemistry
+    - course: BS in Chemistry
       institution: Indian Institute of Technology, Jodhpur
       year: 2023
   
