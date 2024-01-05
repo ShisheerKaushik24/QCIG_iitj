@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '26.471155936104132'
         longitude: '73.11309665953857'
-      directions: Enter **Student of Administration** Building and take the stairs to **IDRP** Office on Floor 1
+      directions: Enter **Office of Administration** Building and take the stairs to **IDRP** Office on Floor 1
       office_hours:
         - '**Weekdays:** 10:00 to 17:00'
         - '**Weekends:** 10:00 to 13:00'
