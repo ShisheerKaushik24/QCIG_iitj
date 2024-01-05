@@ -26,7 +26,7 @@ featured: false
 
 links:
 - name: Custom Link
-  url: 
+# url: 
 url_pdf: 
 url_code: 'https://github.com/ShisheerKaushik24/Quantum_projects/tree/master/Quantum-Secure-Communication-via-Steganography'
 url_dataset: ''
