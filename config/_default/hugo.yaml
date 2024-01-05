@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Q C I G # Website name
+title: title: Q C I G <img src="path/to/your/icon.jpg" alt="Your Icon Alt Text" style="width: 50px; height: auto;" /> # Website name
 baseURL: 'https://qcig-iitj.netlify.app' # Website URL
 
 ############################
