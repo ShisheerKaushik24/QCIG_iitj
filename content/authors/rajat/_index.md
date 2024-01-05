@@ -68,6 +68,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Founder
+  - Core Member
 ---
 
 I am a passionate, experimental physicist currently pursuing an MTech in Quantum Technology, focusing on 2D Quantum Materials-based Photodetectors. With a strong foundation in materials science, I completed my master's degree with a project centred on the synthesis, impedance analysis, and characterization of perovskite materials. My goal is to further my academic journey by pursuing a PhD abroad, where I can contribute to cutting-edge research in the field of quantum technology. I am enthusiastic about exploring new horizons in experimental physics and leveraging my expertise to address pressing scientific challenges.
