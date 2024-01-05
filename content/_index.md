@@ -54,21 +54,6 @@ sections:
           text: Join Us
           url: ../contact/
         
-  - block: hero
-    content:
-      title: |
-        Quantum Computing
-        Innovators Group
-      image:
-        filename: welcome.png
-      text: |
-        <br>
-        <div style="text-align: justify;">
-        
-        Since its establishment in 2023, the **Quantum Computing Innovators Group** has served as a hub of excellence dedicated to the   research, education, and practical application of Quantum Technology.
-    
-        </div>
-        
   - block: markdown
     content:
       title: |
