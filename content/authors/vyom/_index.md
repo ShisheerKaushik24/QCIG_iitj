@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Bachelors Student of Chemical Engineering
+role: Bachelors Student of Chemistry
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ interests:
   
 education:
   courses:
-    - course: M.Tech in Chemical Engineering
+    - course: BSc in Chemistry
       institution: Indian Institute of Technology, Jodhpur
       year: 2023
     - course: BEng in Computer Engineering
