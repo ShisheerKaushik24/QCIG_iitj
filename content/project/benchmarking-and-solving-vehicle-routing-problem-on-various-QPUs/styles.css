@@ -1,0 +1,11 @@
+#scroll-to-top {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #F2921D;
+  color: #333;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 20px;
+}
