@@ -7,6 +7,37 @@ title: Q C I G # Website name
 baseURL: 'https://qcig-iitj.netlify.app' # Website URL
 
 ############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  # Blog post options
+  - _target:
+      path: /post/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on blog post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+  # Blog section options
+  - _target:
+      path: /post/*
+      kind: section
+    # Change url to /blog/
+    url: /blog/
+    # Set the listing view
+    view: date-title-summary
+    
+############################
 ## LANGUAGE
 ############################
 
@@ -19,6 +50,8 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
+build:
+  writeStats: true
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
