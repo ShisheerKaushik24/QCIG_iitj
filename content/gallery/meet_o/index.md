@@ -27,7 +27,7 @@ design:
     padding: ["0", "0", "0", "0"]
 
 gallery_item:
-- album: meet_0
+- album: meet_o
   image: "meet_0.jpg"
   caption: "Write your image caption here"
 
