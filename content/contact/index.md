@@ -15,7 +15,7 @@ sections:
       address:
         street: Indian Institute of Technology Jodhpur, Karwar
         city: Jodhpur
-        region: RJ
+        region: Rajasthan
         postcode: '342037'
         country: India
         country_code: IN
