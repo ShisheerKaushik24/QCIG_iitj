@@ -17,20 +17,14 @@ main:
     url: event
     weight: 40
   - name: Collaborative Works
-    weight: 40
+    weight: 50
     hasChildren: true
   - parent: Collaborative Works
     name: Projects
     url: project/
   - parent: Collaborative Works
     name: Publications
-    url: publications/
-  - name: Publications
-    url: publication
-    weight: 50
-  - name: Projects
-    url: project
-    weight: 60
+    url: publication/
   - name: Contact
     url: contact
-    weight: 70
+    weight: 60
