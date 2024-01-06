@@ -14,31 +14,7 @@ sections:
       title: |
         Quantum Computing
         Innovators Group
-      text: 🧱 Unlock the limitless possibilities of quantum computing 🧱
-      primary_action:
-        text: Know More
-        url: https://iitj.ac.in/qic/
-        icon: rocket-launch
-      secondary_action:
-        text: Read the Company Norms
-        url: https://iitj.ac.in/qic/
-      announcement:
-        text: Latest News.
-        link:
-          text: Read more
-          url: /posts/
-      design:
-        spacing:
-          padding: [0, 0, 0, 0]
-          margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-      css_class: "dark"
-      background:
-        image:
-          # Add your image background to `assets/media/`.
-          filename: welcome.png
-          filters:
-            brightness: 0.3
+      image: welcome.jpg
       text: |
         <br>
         <div style="text-align: justify;">
