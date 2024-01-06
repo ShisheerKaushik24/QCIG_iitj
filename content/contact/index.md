@@ -10,23 +10,22 @@ sections:
       title: Contact
       text: |-
         
-      email: qgc.iitj@gmail.com
-      phone: 0291-2801602
+      email: gqc.iitj@gmail.com
+      phone: 
       address:
-        street: NH 62, Surpura Bypass Rd
+        street: Indian Institute of Technology Jodhpur, Karwar
         city: Jodhpur
-        region: JDH
-        postcode: '342030'
+        region: RJ
+        postcode: '342037'
         country: India
         country_code: IN
       coordinates:
         latitude: '26.471155936104132'
         longitude: '73.11309665953857'
-      directions: Enter **Office of Administration** Building and take the stairs to **IDRP** Office on Floor 1
+      directions: IDRP Office
       office_hours:
         - '**Weekdays:** 10:00 to 17:00'
-        - '**Weekends:** 10:00 to 13:00'
-      appointment_url: 'https://iitj.ac.in/qic/'
+      appointment_url: 
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
