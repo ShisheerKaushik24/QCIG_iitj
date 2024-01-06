@@ -6,7 +6,7 @@ name = "aga"
   primary = "#f6bd4b"
 
   # Menu
-  menu_primary = "#54455D"
+  menu_primary = "#211433"
   menu_text = "#fef9ff"
   menu_text_active = "#f6bd4b"
   menu_title = "#fef9ff"
