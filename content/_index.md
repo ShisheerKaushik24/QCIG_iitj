@@ -4,13 +4,14 @@ title:
 date: 2023-10-24
 type: landing
   
-sections:  
+sections:
   - block: hero
     content:
       title: |
         Quantum Computing
         Innovators Group
-      image: welcome.jpg
+      image:
+        filename: welcome.png
       text: |
         <br>
         <div style="text-align: justify;">
