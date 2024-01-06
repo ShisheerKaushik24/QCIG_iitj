@@ -45,7 +45,7 @@ social:
     icon_pack: fas
     link: 'm23iqt002@iitj.acin'
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.linkedin.com/in/kote-avinash-rajkumar-44b28427b/
   
 # Link to a PDF of your resume/CV from the About widget.
