@@ -46,28 +46,7 @@ sections:
         Since its establishment in 2023, the **Quantum Computing Innovators Group** has served as a hub of excellence dedicated to the   research, education, and practical application of Quantum Technology.
     
         </div>
-    
-  - block: stats
-    content:
-      items:
-        - statistic: "1K+"
-          description: |
-            Websites Visits
-        - statistic: "15+"
-          description: |
-            QCIG Group  
-            Members
-        - statistic: "70+"
-          description: |
-            QCIG Group
-            community for support
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
-    
+
   - block: markdown
     content:
       title: |
