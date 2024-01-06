@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  theme_day: 'aga'
-  theme_night: 'aga'
+  mode: light
+  color: indigo
   font: edo
   font_size: M
 
@@ -34,9 +34,19 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: true
-    show_language: false
-    show_day_night: true
+    blox: "navbar"
+    fixed_to_top: true
+    logo:
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "icon.svg"
+    button:
+      enable: true
+      text: "Know More"
+      url: "https://iitj.ac.in/qic/"
+    show_search: true
+    show_theme_chooser: true
+    show_day_night: false
     show_search: true
     highlight_active_link: false
     
