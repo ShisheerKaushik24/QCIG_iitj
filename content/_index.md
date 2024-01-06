@@ -1,17 +1,44 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: 'Home'
 date: 2023-10-24
 type: landing
 
+design:
+  # Default section spacing
+  spacing: "6rem"
+  
 sections:  
   - block: hero
     content:
       title: |
         Quantum Computing
         Innovators Group
-      image:
-        filename: welcome.png
+      text: 🧱 Unlock the limitless possibilities of quantum computing 🧱
+      primary_action:
+        text: Know More
+        url: https://iitj.ac.in/qic/
+        icon: rocket-launch
+      secondary_action:
+        text: Read the Company Norms
+        url: https://iitj.ac.in/qic/
+      announcement:
+        text: Latest News.
+        link:
+          text: Read more
+          url: /posts/
+      design:
+        spacing:
+          padding: [0, 0, 0, 0]
+          margin: [0, 0, 0, 0]
+      # For full-screen, add `min-h-screen` below
+      css_class: "dark"
+      background:
+        image:
+          # Add your image background to `assets/media/`.
+          filename: welcome.png
+          filters:
+            brightness: 0.3
       text: |
         <br>
         <div style="text-align: justify;">
@@ -19,7 +46,28 @@ sections:
         Since its establishment in 2023, the **Quantum Computing Innovators Group** has served as a hub of excellence dedicated to the   research, education, and practical application of Quantum Technology.
     
         </div>
-
+    
+  - block: stats
+    content:
+      items:
+        - statistic: "1K+"
+          description: |
+            Websites Visits
+        - statistic: "15+"
+          description: |
+            QCIG Group  
+            Members
+        - statistic: "70+"
+          description: |
+            QCIG Group
+            community for support
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
+      # Reduce spacing
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+    
   - block: markdown
     content:
       title: |
@@ -34,7 +82,7 @@ sections:
         - We promote quantum computing innovation and knowledge exchange.
         - Our dynamic activities aim to establish a thriving ecosystem for professionals, enthusiasts, and learners.
         - Join us for enlightening workshops, seminars, and events with in-depth discussions and hands-on experiences.
-        - We offer specialised certificate courses to equip people with quantum skills.
+        - We offer specialized certificate courses to equip people with quantum skills.
         - Let's accelerate the quantum revolution and unleash quantum computing's boundless potential.
 
     
