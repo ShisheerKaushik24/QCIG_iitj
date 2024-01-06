@@ -32,7 +32,7 @@ image:
 - **Organization**
   - [Qkrishi](https://qkrishi.com/)
 - **Student**
-  - [Shisheer S Kaushik](https://shisheerkaushik.netlify.app/)
+  - [Shisheer S Kaushik](https://www.linkedin.com/in/shisheerkaushik24/)
 - **Mentors**
   - [Raghavendra V](https://www.linkedin.com/in/raghavendra-v-b011272a/?originalSubdomain=in)
   
