@@ -13,7 +13,7 @@ title: Gallery
 subtitle:
 
 tags:
-  - Photography
+  - Gallery
 
 draft: true
 
