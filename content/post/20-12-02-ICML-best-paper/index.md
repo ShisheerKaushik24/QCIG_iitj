@@ -5,12 +5,18 @@ image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Congratulations to `QCIG Team` for the very first meet on “Quantum Computing Activities Discussions”.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+In a historic gathering of minds and innovation, the `Quantum Computing Innovators Group` convened for its inaugural meeting on **January 4, 2023**, at the esteemed [Indian Institute of Technology (IIT) Jodhpur](https://iitj.ac.in/qic/index.html).
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+The event marked the beginning of a journey that promises to shape the future of quantum computing, bringing together enthusiasts, researchers, and experts passionate about exploring the limitless potential of quantum technology.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+Hosted at the cutting-edge facilities of IIT Jodhpur, the meeting provided a platform for like-minded individuals to exchange ideas, share insights, and foster collaborations in the field of quantum computing. The atmosphere buzzed with excitement as participants delved into discussions ranging from the fundamental principles of quantum mechanics to the latest advancements in quantum computing research.
+
+The Quantum Computing Innovators Group, established in 2023, aims to serve as a hub for excellence, focusing on research, education, and practical applications of quantum technology. The inaugural meeting set the tone for a series of future events, including workshops, seminars, and hands-on experiences, designed to accelerate the quantum revolution.
+
+As the group takes its first steps towards propelling the frontiers of quantum technology, the vibrant and dynamic community formed during this inaugural meeting lays the foundation for groundbreaking collaborations, discoveries, and advancements in the realm of quantum computing.
+
+The Quantum Computing Innovators Group at IIT Jodhpur looks forward to the exciting journey ahead, as it continues to unlock the boundless possibilities that quantum computing offers to reshape the landscape of technology and innovation.
