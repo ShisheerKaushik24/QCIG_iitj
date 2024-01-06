@@ -32,7 +32,9 @@ image:
 - **Organization**
   - [Indian Institute of Technology Jodhpur](https://iitj.ac.in)
 - **Student**
-  - [Shisheer S Kaushik](https://shisheerkaushik.netlify.app/)
+  - [Shisheer S Kaushik](https://www.linkedin.com/in/shisheerkaushik24/)
+  - [Thirumalai M](https://www.linkedin.com/in/m-thirumalai/)
+  - [Haris Ansari](https://www.linkedin.com/in/haris-ansari-647861176/)
 
 # Contents
 <nav>
