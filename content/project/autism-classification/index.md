@@ -35,6 +35,9 @@ image:
   - [Shisheer S Kaushik](https://www.linkedin.com/in/shisheerkaushik24/)
   - [Thirumalai M](https://www.linkedin.com/in/m-thirumalai/)
   - [Haris Ansari](https://www.linkedin.com/in/haris-ansari-647861176/)
+- **Mentors**
+  - [Anand Mishra](https://research.iitj.ac.in/researcher/anand-mishra)
+  
 
 # Contents
 <nav>
