@@ -25,6 +25,9 @@ main:
   - parent: Collaborative Works
     name: Publications
     url: publication/
+  - name: Gallery📸
+    url: 'gallery/'
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
