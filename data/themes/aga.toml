@@ -1,0 +1,21 @@
+# Theme metadata
+name = "aga"
+
+[dark]
+  # Primary
+  primary = "#f6bd4b"
+
+  # Menu
+  menu_primary = "#54455D"
+  menu_text = "#fef9ff"
+  menu_text_active = "#f6bd4b"
+  menu_title = "#fef9ff"
+
+  # Backgrounds
+  #background = "#000"
+  home_section_odd = "#0E1029"
+  home_section_even = "#0E1037"
+
+  # Links
+  link = "#f6bd4b"
+  link_hover = "#f6bd4b"
