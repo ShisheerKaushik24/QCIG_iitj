@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc in Physics
+role: Masters Student in Physics
 
 # Organizations/Affiliations
 organizations:
