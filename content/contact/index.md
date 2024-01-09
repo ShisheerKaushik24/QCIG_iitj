@@ -26,7 +26,32 @@ sections:
       office_hours:
         - '**Weekdays:** 10:00 to 17:00'
       appointment_url: 
-      #contact_links:
+      # contact_links:
+      social:
+        - display:
+            header: false
+          link: mailto:shisheerskaushik@aol.com
+          icon_pack: far
+          icon: envelope
+          label: Email
+        - display:
+            header: false
+          icon_pack: fab
+          icon: twitter
+          label: Twitter
+          link: https://twitter.com/Agusthya1
+        - display:
+            header: false
+          link: https://github.com/ShisheerKaushik24
+          icon_pack: fab
+          icon: github
+          label: GitHub
+        - display:
+            header: false
+          link: https://linkedin.com/in/ShisheerKaushik24
+          icon_pack: fab
+          icon: linkedin
+          label: LinkedIn
       #  - icon: comments
       #    icon_pack: fas
       #    name: Discuss on Forum
