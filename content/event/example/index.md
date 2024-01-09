@@ -12,11 +12,11 @@ abstract: 'Join the Quantum Computing Innovators Club for an immersive workshop 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-01-21T13:00:00Z'
-date_end: '2021-01-21T15:00:00Z'
+date_end: '2024-01-21T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-01-10T00:00:00Z'
+publishDate: '2024-01-07T00:00:00Z'
 
 authors: []
 tags: []
