@@ -32,7 +32,7 @@ sections:
           name: Twitter
           link: 'https://lnkd.in/gkF7g_3Y'
         - icon: watsapp
-          icon_pack: fab
+          icon_pack: fas
           name: WatsApp
           link: 'https://lnkd.in/gA6EF-nn'
         - icon: linkedin
