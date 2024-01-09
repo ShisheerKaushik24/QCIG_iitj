@@ -57,7 +57,7 @@ sections:
           image:
             filename: silcon.gif
             filters:
-              brightness: 0.7
+              brightness: 0.9
           position: center
           color: '#333'
       - title: State of Art Quantum Optics Lab
