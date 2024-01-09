@@ -18,8 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-01-10T00:00:00Z'
 
-authors: 
-  - qcig
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
