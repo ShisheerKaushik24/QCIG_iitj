@@ -15,6 +15,7 @@ sections:
           - Secretary
           - Additional Secretary
           - Joint Secretary
+          - Executive Member [Head]
           - Executive Member
           - Core Member [Head]
           - Core Member
