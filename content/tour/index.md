@@ -28,6 +28,26 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+      - title: Quantum Computing Research
+        content: 'Talsk and Discussion on Quantum Compuation Research!'
+        align: left
+        background:
+          image:
+            filename: computing.gif
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#666'
+      - title: Quantum Communication Research
+        content: 'Talsk and Discussion on Quantum Communication technology!'
+        align: left
+        background:
+          image:
+            filename: communication.gif
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#555'
       - title: Quantum Materials Research
         content: 'Talsk and Discussion on Quantum Material technology!'
         align: left
@@ -37,7 +57,7 @@ sections:
             filters:
               brightness: 0.7
           position: center
-          color: '#555'
+          color: '#333'
       - title: World-Class Semiconductor Lab
         content: 'Just opened last month!'
         align: right
