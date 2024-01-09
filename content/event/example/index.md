@@ -1,30 +1,25 @@
 ---
-title: Introduction to Qiskit Development Kit
+title: Introduction to Qiskit Development SDK
 
-event: Conference
-event_url: https://example.org
+event: Workshop
+event_url: https://qcig-iitj.netlify.app/event/example
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: IIT, Jodhpur
 
-summary: Invited talks.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Workshop
+abstract: 'Join the Quantum Computing Innovators Club for an immersive workshop on the Qiskit Development SDK at IIT Jodhpur on January 21, 2024. Delve into the world of quantum computing as we explore the fundamentals of Qiskit, a powerful open source quantum computing software development framework. Dont miss this opportunity to kickstart your journey into quantum programming and innovation.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-01-21T13:00:00Z'
+date_end: '2021-01-21T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-01-10T00:00:00Z'
 
-authors: []
+authors: 
+  - qcig
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -54,10 +49,31 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+# Agenda
 
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+**Welcome and Registration (9:00 AM - 9:30 AM):**
+- Registration and networking opportunities.
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+**Introduction to Quantum Computing (9:30 AM - 10:00 AM):**
+- Overview of quantum computing concepts and significance.
+
+**Qiskit Overview (10:00 AM - 11:00 AM):**
+- Introduction to the Qiskit Development Kit.
+- Key features and capabilities.
+
+**Hands-on Session (11:00 AM - 1:00 PM):**
+- Practical exercises using Qiskit.
+- Coding and running simple quantum programs.
+
+**Lunch Break (1:00 PM - 2:00 PM):**
+- Networking and casual discussions.
+
+**Advanced Qiskit Topics (2:00 PM - 3:30 PM):**
+- Dive deeper into Qiskit functionalities.
+- Explore advanced quantum algorithms.
+
+**Q&A Session (3:30 PM - 4:00 PM):**
+- Engage with experts, clarify doubts, and discuss quantum computing prospects.
+
+**Networking and Closing (4:00 PM - 5:00 PM):**
+- Connect with fellow participants and event organizers.
