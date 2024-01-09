@@ -27,31 +27,18 @@ sections:
         - '**Weekdays:** 10:00 to 17:00'
       appointment_url: 
       contact_links:
-      # social:
-        - display:
-            header: false
-          link: mailto:shisheerskaushik@aol.com
-          icon_pack: far
-          icon: envelope
-          label: Email
-        - display:
-            header: false
+        - icon: twitter
           icon_pack: fab
-          icon: twitter
-          label: Twitter
+          name: Twitter
+          link: 'https://twitter.com/Agusthya1'
+        - icon: instagram
+          icon_pack: fab
+          name: Instagram
           link: https://twitter.com/Agusthya1
-        - display:
-            header: false
-          link: https://github.com/ShisheerKaushik24
+        - icon: linkedin
           icon_pack: fab
-          icon: github
-          label: GitHub
-        - display:
-            header: false
+          name: LinkedIn
           link: https://linkedin.com/in/ShisheerKaushik24
-          icon_pack: fab
-          icon: linkedin
-          label: LinkedIn
       #  - icon: comments
       #    icon_pack: fas
       #    name: Discuss on Forum
