@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: silcon.jif
+            filename: silcon.gif
             filters:
               brightness: 0.7
           position: center
