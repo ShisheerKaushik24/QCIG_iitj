@@ -3,7 +3,7 @@ title: "Benchmarking and Solving Vehicle routing problem on various Quantum Comp
 date: 2023-01-28
 authors:
 - 吳恩達
-summary: This ongoing project work is a part my work as Junior researcher at [Qkrishi](https://qkrishi.com/), Gurgaon, India. The project's objective is to benchmark the repective routing algorithm on various available *QPU's* by testing on several optimization algorithm to observe and compare the best **optimal (minimal) cost** for a vehicles to deliver goods to a fixed number of customers with optimal efficiency.
+summary: The project's objective is to benchmark the repective routing algorithm on various available *QPU's* by testing on several optimization algorithm to observe and compare the best **optimal (minimal) cost** for a vehicles to deliver goods to a fixed number of customers with optimal efficiency.
 draft: false
 featured: true
 tags:
@@ -28,13 +28,6 @@ image:
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-
-- **Organization**
-  - [Qkrishi](https://qkrishi.com/)
-- **Student**
-  - [Shisheer S Kaushik](https://www.linkedin.com/in/shisheerkaushik24/)
-- **Mentors**
-  - [Raghavendra V](https://www.linkedin.com/in/raghavendra-v-b011272a/?originalSubdomain=in)
   
 # Contents
 <nav>
