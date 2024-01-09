@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Core Member
+  - Executive Member
 ---
 
 I am pursuing a Ph.D. from IIT Jodhpur in Quantum Communication/Optics. 
