@@ -67,7 +67,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: dump.gif
+          filename: 
           filters:
             brightness: 1
           parallax: false
