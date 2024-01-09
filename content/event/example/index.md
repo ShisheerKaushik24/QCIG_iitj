@@ -48,7 +48,7 @@ slides:
 projects:
 ---
 
-# Agenda
+### Agenda
 
 **Welcome and Registration (9:00 AM - 9:30 AM):**
 - Registration and networking opportunities.
