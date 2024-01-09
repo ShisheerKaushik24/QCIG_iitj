@@ -28,6 +28,16 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+      - title: Quantum Materials Research
+        content: 'Talsk and Discussion on Quantum Material technology!'
+        align: left
+        background:
+          image:
+            filename: silcon.jif
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
       - title: World-Class Semiconductor Lab
         content: 'Just opened last month!'
         align: right
