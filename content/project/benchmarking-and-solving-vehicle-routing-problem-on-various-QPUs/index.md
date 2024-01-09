@@ -18,7 +18,7 @@ links:
     icon_pack: fab
     icon: github
 image:
-  filename: vehicle.gif
+  filename: featured.png
   focal_point: Smart
   preview_only: true
 ---
@@ -52,6 +52,8 @@ The Vehicle routing problem (VRP) is an NP-hard optimization problem that has be
     
   </p>
 </section>
+
+![](vehicle.gif)
 
 <section id="section2">
   <h2>The overall workflow we demonstrate comprises:</h2>
