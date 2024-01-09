@@ -31,8 +31,8 @@ sections:
           icon_pack: fab
           name: Twitter
           link: 'https://lnkd.in/gkF7g_3Y'
-        - icon: watsapp
-          icon_pack: fas
+        - icon: whatsapp
+          icon_pack: fab
           name: WatsApp
           link: 'https://lnkd.in/gA6EF-nn'
         - icon: linkedin
