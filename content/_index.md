@@ -111,14 +111,6 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="meet_o" >}}
-    design:
-      columns: '1'
-  - block: markdown
-    content:
       title:
       subtitle: ''
       text:
