@@ -26,8 +26,8 @@ sections:
       office_hours:
         - '**Weekdays:** 10:00 to 17:00'
       appointment_url: 
-      # contact_links:
-      social:
+      contact_links:
+      # social:
         - display:
             header: false
           link: mailto:shisheerskaushik@aol.com
