@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Executive Member
+  - Secretary
 ---
 
 Everything is to gain, nothing to loose". Me - the man who strongly believes the above quote. Everytime n everywhere I love to start from the scratch to succeed. challenging. I'm Interested in Quantum computing, Quantum Machine learning | Open to projects on Qiskit, QuantAI, Amazon BracKet and both ML and QML.
