@@ -35,7 +35,7 @@ sections:
           image:
             filename: computing.gif
             filters:
-              brightness: 0.7
+              brightness: 0.9
           position: center
           color: '#666'
       - title: Quantum Communication Research
@@ -45,7 +45,7 @@ sections:
           image:
             filename: communication.gif
             filters:
-              brightness: 0.6
+              brightness: 0.9
           position: center
           color: '#555'
       - title: Quantum Materials Research
@@ -58,8 +58,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#333'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: State of Art Quantum Optics Lab
+        content: 'Just opened last year!'
         align: right
         background:
           image:
