@@ -66,6 +66,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Executive Member
+  - Executive Member [Head]
 ---
 Looking to dive into the field of Quantum Computing and Information with Quantum Optics
