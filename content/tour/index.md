@@ -38,7 +38,7 @@ sections:
               brightness: 0.9
           position: center
           color: '#666'
-          size: fit
+          size: cover
       - title: Quantum Communication Research
         content: 'Talsk and Discussion on Quantum Communication technology!'
         align: left
@@ -49,7 +49,7 @@ sections:
               brightness: 0.9
           position: center
           color: '#555'
-          size: fit
+          size: cover
       - title: Quantum Materials Research
         content: 'Talsk and Discussion on Quantum Material technology!'
         align: left
