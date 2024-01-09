@@ -30,15 +30,15 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: Twitter
-          link: 'https://twitter.com/Agusthya1'
-        - icon: instagram
+          link: 'https://lnkd.in/gkF7g_3Y'
+        - icon: watsapp
           icon_pack: fab
-          name: Instagram
-          link: https://twitter.com/Agusthya1
+          name: WatsApp
+          link: 'https://lnkd.in/gA6EF-nn'
         - icon: linkedin
           icon_pack: fab
           name: LinkedIn
-          link: https://linkedin.com/in/ShisheerKaushik24
+          link: https://www.linkedin.com/company/qcig/'
       #  - icon: comments
       #    icon_pack: fas
       #    name: Discuss on Forum
