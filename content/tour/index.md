@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: Quantum Computing Research
-        content: 'Talsk and Discussion on Quantum Compuation Research!'
+        content: 'Talks and Discussion on Quantum Compuation Research!'
         align: left
         background:
           image:
@@ -40,7 +40,7 @@ sections:
           color: '#666'
           size: cover
       - title: Quantum Communication Research
-        content: 'Talsk and Discussion on Quantum Communication technology!'
+        content: 'Talks and Discussion on Quantum Communication technology!'
         align: left
         background:
           image:
