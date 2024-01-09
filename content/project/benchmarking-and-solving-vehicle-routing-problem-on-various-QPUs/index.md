@@ -18,7 +18,7 @@ links:
     icon_pack: fab
     icon: github
 image:
-  filename: featured.png
+  filename: vehicle.gif
   focal_point: Smart
   preview_only: true
 ---
