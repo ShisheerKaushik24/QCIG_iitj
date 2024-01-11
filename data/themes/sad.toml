@@ -1,0 +1,21 @@
+# Theme metadata
+name = "sad"
+
+[dark]
+  # Primary
+  primary = "#4169E1"  # Royal Blue
+
+  # Menu
+  menu_primary = "#2E2E2E"  # Dark Gray
+  menu_text = "#FFFFFF"  # White
+  menu_text_active = "#4169E1"  # Royal Blue
+  menu_title = "#FFFFFF"  # White
+
+  # Backgrounds
+  #background = "#000"
+  home_section_odd = "#F5F5F5"  # Light Gray
+  home_section_even = "#E0E0E0"  # Silver
+
+  # Links
+  link = "#4169E1"  # Royal Blue
+  link_hover = "#6495ED"  # Cornflower Blue
