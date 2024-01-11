@@ -3,19 +3,18 @@ name = "sad"
 
 [dark]
   # Primary
-  primary = "#4169E1"  # Royal Blue
+  primary = "#3498db"  # Dodger Blue
 
   # Menu
-  menu_primary = "#2E2E2E"  # Dark Gray
-  menu_text = "#FFFFFF"  # White
-  menu_text_active = "#4169E1"  # Royal Blue
-  menu_title = "#FFFFFF"  # White
+  menu_primary = "#2c3e50"  # Midnight Blue
+  menu_text = "#ecf0f1"  # Frost White
+  menu_text_active = "#3498db"  # Dodger Blue
+  menu_title = "#ecf0f1"  # Frost White
 
   # Backgrounds
-  #background = "#000"
-  home_section_odd = "#F5F5F5"  # Light Gray
-  home_section_even = "#E0E0E0"  # Silver
+  home_section_odd = "#34495e"  # Wet Asphalt
+  home_section_even = "#2c3e50"  # Midnight Blue
 
   # Links
-  link = "#4169E1"  # Royal Blue
-  link_hover = "#6495ED"  # Cornflower Blue
+  link = "#3498db"  # Dodger Blue
+  link_hover = "#2980b9"  # Belize Hole
