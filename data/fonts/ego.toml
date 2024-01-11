@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Edo"
+
+# Optional Google font URL
+#google_fonts = "Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700"
+
+# Font families
+heading_font = "Lato"
+body_font = "Ubuntu"
+nav_font = "Journal"
+mono_font = "Ubuntu Mono"
