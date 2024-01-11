@@ -87,7 +87,7 @@ features:
     commento:
       url: ''
     giscus:
-      repo: 'ShisheerKaushik24/qcig-iitj-giscus'
+      repo: 'ShisheerKaushik24/QCIG_iitj'
       repo_id: 'R_kgDOLBbIug'
       category: 'Show and tell'
       category_id: 'DIC_kwDOLBbIus4CcO0V'
