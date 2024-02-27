@@ -8,6 +8,7 @@ location: IIT, Jodhpur
 
 summary: Workshop
 abstract: 'Join the Quantum Computing Innovators Club for an immersive workshop on the Quantum Software Development at IIT Jodhpur on March 31, 2024. Delve into the world of quantum computing as we explore the fundamentals of Quantum computing, a powerful open source quantum computing software development framework. Dont miss this opportunity to kickstart your journey into quantum programming and innovation.'
+---
 
 **Event Report: Introduction to Quantum Software Development**
 
