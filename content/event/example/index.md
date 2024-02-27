@@ -3,7 +3,7 @@ title: Introduction to Quantum Software Development by  Classiq
 
 event: Workshop
 event_url: https://qcig-iitj.netlify.app/event/example
-
+date: march 31
 location: IIT, Jodhpur
 
 summary: Workshop
