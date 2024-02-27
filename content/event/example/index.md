@@ -1,5 +1,5 @@
 ---
-title: Introduction to Qiskit Development SDK
+title: Introduction to Quantum Software Development by  Classiq
 
 event: Workshop
 event_url: https://qcig-iitj.netlify.app/event/example
@@ -7,72 +7,43 @@ event_url: https://qcig-iitj.netlify.app/event/example
 location: IIT, Jodhpur
 
 summary: Workshop
-abstract: 'Join the Quantum Computing Innovators Club for an immersive workshop on the Qiskit Development SDK at IIT Jodhpur on January 21, 2024. Delve into the world of quantum computing as we explore the fundamentals of Qiskit, a powerful open source quantum computing software development framework. Dont miss this opportunity to kickstart your journey into quantum programming and innovation.'
+abstract: 'Join the Quantum Computing Innovators Club for an immersive workshop on the Quantum Software Development at IIT Jodhpur on March 31, 2024. Delve into the world of quantum computing as we explore the fundamentals of Quantum computing, a powerful open source quantum computing software development framework. Dont miss this opportunity to kickstart your journey into quantum programming and innovation.'
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-01-21T09:00:00Z'
-date_end: '2024-01-21T16:00:00Z'
-all_day: false
+**Event Report: Introduction to Quantum Software Development**
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2024-01-07T00:00:00Z'
+**Date:** March 31, 2024  
+**Location:** IIT, Jodhpur
 
-authors: []
-tags: []
+**Organizers:** Quantum Computing Innovators Group (QCIG) Team, IIT Jodhpur  
+**Instructor:** Classiq, Israel Team
 
-# Is this a featured talk? (true/false)
-featured: false
+**Overview:**
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+The Quantum Computing Innovators Group (QCIG) at IIT Jodhpur is excited to announce a groundbreaking event scheduled for March 31, 2024. Organized in collaboration with the esteemed team from Classiq, a company  based in Israel, the event aims to introduce participants to the fascinating realm of quantum software development.
 
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+**Event Details:**
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
+The event will feature an intensive workshop led by experts from Classiq, a renowned company specializing in quantum computing technologies. Participants will delve into the fundamentals of quantum software development, gaining valuable insights into the principles and techniques that drive this emerging field.
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
----
+**Agenda:**
 
-### Agenda
+1. **Introduction to Quantum Computing:** The workshop will commence with an overview of quantum computing, highlighting its principles, applications, and significance in modern technology.
 
-**Welcome and Registration (9:00 AM - 9:30 AM):**
-- Registration and networking opportunities.
+2. **Fundamentals of Quantum Software Development:** Participants will receive comprehensive instruction on the principles of quantum software development, including quantum algorithms, quantum programming languages, and quantum circuit design.
 
-**Introduction to Quantum Computing (9:30 AM - 10:00 AM):**
-- Overview of quantum computing concepts and significance.
+3. **Hands-on Exercises:** The workshop will include hands-on exercises and interactive sessions, allowing participants to apply their newfound knowledge in practical scenarios under the guidance of experienced mentors.
 
-**Qiskit Overview (10:00 AM - 11:00 AM):**
-- Introduction to the Qiskit Development Kit.
-- Key features and capabilities.
+4. **Q&A Session:** An interactive Q&A session will provide participants with the opportunity to engage directly with the instructors, clarify doubts, and explore specific topics of interest.
 
-**Hands-on Session (11:00 AM - 1:00 PM):**
-- Practical exercises using Qiskit.
-- Coding and running simple quantum programs.
+**Key Takeaways:**
 
-**Lunch Break (1:00 PM - 2:00 PM):**
-- Networking and casual discussions.
+- In-depth understanding of quantum computing principles and applications.
+- Proficiency in quantum software development techniques.
+- Practical experience through hands-on exercises and interactive sessions.
+- Networking opportunities with industry experts and fellow enthusiasts.
 
-**Advanced Qiskit Topics (2:00 PM - 3:30 PM):**
-- Dive deeper into Qiskit functionalities.
-- Explore advanced quantum algorithms.
+**Conclusion:**
 
-**Q&A Session (3:30 PM - 4:00 PM):**
-- Engage with experts, clarify doubts, and discuss quantum computing prospects.
+The Introduction to Quantum Software Development workshop promises to be an enriching experience for participants eager to explore the exciting possibilities of quantum computing. Organized by the QCIG Team at IIT Jodhpur and taught by the esteemed instructors from Classiq, the event represents a significant step forward in advancing quantum education and fostering collaboration in the field of quantum technologies.
 
-**Networking and Closing (4:00 PM - 5:00 PM):**
-- Connect with fellow participants and event organizers.
+**Note:** Registration details and additional information will be provided closer to the event date. Stay tuned for further updates!
