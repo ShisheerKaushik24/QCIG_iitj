@@ -1,11 +1,11 @@
 ---
-title: Official Meet of QCIG club with the Faculty members at Indian Institute of Technology, Jodhpur
-date: 2024-02-02
+title: Official meet of QCIG club with the Faculty members at Indian Institute of Technology, Jodhpur
+date: 2024-04-19
 image:
   focal_point: 'top'
 ---
 
-🌟 Exciting News from QCIG! 🌟
+🌟 Exciting News from `QCIG Team`! 🌟
 
 We're thrilled to share some exciting updates with you all. Recently, our group had a really productive meeting where we dove deep into the future plans. During our discussions, we brainstormed ideas and mapped out our next steps to keep driving forward in the world of quantum computing.
 
