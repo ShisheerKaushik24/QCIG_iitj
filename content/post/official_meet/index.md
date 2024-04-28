@@ -1,4 +1,9 @@
-
+---
+title: Official Meet of QCIG club with the Faculty members at Indian Institute of Technology, Jodhpur
+date: 2024-02-02
+image:
+  focal_point: 'top'
+---
 
 🌟 Exciting News from QCIG! 🌟
 
