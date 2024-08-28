@@ -65,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Executive Member
+  - Core Member
 ---
 
 Shisheer S Kaushik is currently pursuing a post-graduate degree specializing in Quantum Technologies from Indian Institute of Technology, Jodhpur. He got to know about Quantum computing just about two years ago, but he catches up fast. Over the past 26 months, he has actively participated in numerous conferences, workshops, and hackathons and is an engaged member of the Qworld Association community, where he has mentored several events. Moreover, he has reasonable experience using frameworks like 'Qiskit', 'Cirq' SDK's for programming.
