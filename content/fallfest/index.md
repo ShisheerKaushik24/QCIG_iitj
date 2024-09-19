@@ -1,6 +1,6 @@
 ---
-title: Tour
-date: 2022-10-24
+title: Qiskit Fall Fest 2024
+date: 2024-09-20
 
 type: landing
 
@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Qiskit Fall Fest - 2024
+        content: Stay tuned for further updates...
         align: center
         background:
           image:
