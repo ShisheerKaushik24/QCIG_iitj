@@ -9,57 +9,38 @@ sections:
     content:
       slides:
       - title: Qiskit Fall Fest - 2024
-        content: Stay tuned for further updates...
+        content: IBM Quantum Extension event at IIT Jodhpur
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: Qiskit_Fall-Fest_Wallpaper-06.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: What is Qiskit Fall Fest ?
+        content: 'Qiskit Fall Fest is a series of events that brings together students who are interested in the exciting field of quantum information. The week of festivities includes workshops for people who are new to Qiskit, coding challenges for a range of skill levels.'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: Qiskit_Fall-Fest_Wallpaper-05.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Quantum Computing Research
-        content: 'Talks and Discussion on Quantum Compuation Research!'
+      - title: When and Where ?
+        content: 'Stay tuned for further updates'
         align: left
         background:
           image:
-            filename: computing.gif
+            filename: Qiskit_Fall-Fest_Wallpaper-06.gif
             filters:
               brightness: 0.9
           position: center
           color: '#666'
           size: cover
-      - title: Quantum Communication Research
-        content: 'Talks and Discussion on Quantum Communication technology!'
-        align: left
-        background:
-          image:
-            filename: communication.gif
-            filters:
-              brightness: 0.9
-          position: center
-          color: '#555'
-          size: cover
-      - title: Quantum Materials Research
-        content: 'Talsk and Discussion on Quantum Material technology!'
-        align: left
-        background:
-          image:
-            filename: silcon.gif
-            filters:
-              brightness: 0.9
-          position: center
-          color: '#333'
+      
+     
       - title: State of Art Quantum Optics Lab
         content: 'Just opened last year!'
         align: right
