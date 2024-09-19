@@ -4,10 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-- name: Qiskit Fall Fest 2024
+  - name: Qiskit Fall Fest 2024
     url: fallfest
     weight: 10
-    
   - name: Ongoing Initiatives
     url: tour
     weight: 10
