@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Qiskit Fall Fest - 2024
-        content: IBM Quantum Extension event at IIT Jodhpur
+        content: IBM Quantum event at IIT Jodhpur
         align: center
         background:
           image:
