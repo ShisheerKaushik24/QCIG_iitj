@@ -1,6 +1,6 @@
 ---
-title: Qiskit Fall Fest 2024
-date: 2024-09-20
+title: Tour
+date: 2022-10-24
 
 type: landing
 
@@ -13,40 +13,29 @@ sections:
         align: center
         background:
           image:
-            filename:  paper2.jpg
+            filename: paper1.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
       - title: What is Qiskit Fall Fest ?
-        content: 'Qiskit Fall Fest is a series of events that brings together students who are interested in the exciting field of quantum information. The week of festivities includes workshops for people who are new to Qiskit, coding challenges for a range of skill levels.'
-        align: left
-        background:
-          image:
-            filename: paper1.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: When and Where ?
-        content: 'Stay tuned for further updates'
+        content: 'Qiskit Fall Fest is a series of events that brings together students who are interested in the exciting field of quantum information. The week of festivities includes workshops for people who are new to Qiskit, coding challenges for a range of skill levels'
         align: left
         background:
           image:
             filename: paper2.jpg
             filters:
-              brightness: 0.9
+              brightness: 0.7
           position: center
-          color: '#666'
-          size: cover
-      
-     
-      - title: State of Art Quantum Optics Lab
-        content: 'Just opened last year!'
+          color: '#555'
+    
+ 
+      - title: When and Where ?
+        content: 'Stay tuned for further updates'
         align: right
         background:
           image:
-            filename: welcome.png
+            filename: paper1.jpg
             filters:
               brightness: 0.5
           position: center
@@ -54,8 +43,8 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Register Here
+          url: https://forms.gle/NJP8fyozCWtMm1qv9
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
