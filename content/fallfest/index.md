@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: Qiskit_Fall-Fest_Wallpaper-06.jpg
+            filename:  paper1.jpg
             filters:
               brightness: 0.7
           position: right
