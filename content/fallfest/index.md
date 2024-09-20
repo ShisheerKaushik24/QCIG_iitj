@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename:  paper1.jpg
+            filename:  paper2.jpg
             filters:
               brightness: 0.7
           position: right
@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: Qiskit_Fall-Fest_Wallpaper-05.jpg
+            filename: paper1.jpg
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: Qiskit_Fall-Fest_Wallpaper-06.jpg
+            filename: paper2.jpg
             filters:
               brightness: 0.9
           position: center
