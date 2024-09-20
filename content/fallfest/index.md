@@ -37,7 +37,7 @@ sections:
           image:
             filename: paper1.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.4
           position: center
           color: '#333'
         link:
