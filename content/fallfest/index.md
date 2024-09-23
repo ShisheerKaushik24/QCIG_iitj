@@ -2,7 +2,7 @@
 title: "Qiskit Fall Fest 2024 in IIT Jodhpur"
 date: 2023-01-28
 authors:
-- 吳恩達
+- Quantum Club IIT Jodhpur
 summary: .
 draft: false
 featured: true
