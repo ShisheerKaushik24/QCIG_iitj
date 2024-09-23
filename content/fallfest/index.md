@@ -18,8 +18,7 @@ sections:
               brightness: 0.5
           position: right
           color: '#666'
-       
-    
+
  
     
     design:
