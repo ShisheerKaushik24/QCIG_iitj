@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: paper1.jpg
+            filename: paper5.jpg
             filters:
               brightness: 0.5
           position: right
