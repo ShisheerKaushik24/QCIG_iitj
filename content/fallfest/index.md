@@ -41,10 +41,20 @@ image:
    
   </ul>
 </nav> -->
-<img src="paper6.jpg" alt="Qiskit Fall Fet 2024" width="85%"></td>
-![](paper6.jpg)
+
+e[](paper6.jpg)
 <section id="section1">
   <h2>What is Qiskit Fall Fest ?</h2>
+  
+  <table align="center" style="width: 100vw; margin: 0; padding: 0;">
+  <caption>IBM Quantum Event </caption>
+  <tr>
+    <td><img src="asset/mdeia/paper5.jpg" alt="On Simulator [qasm]" width="100%"></td>
+    
+  </tr>
+</table>
+
+
   <p>
 
 Qiskit Fall Fest is a collection of quantum computing events that invites students, researchers and industry professionals around the world to participate in a wide array of quantum-themed activities, ranging from quantum challenges, hackathons, and coding competitions to workshops, social events, and more.
