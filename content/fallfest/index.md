@@ -29,7 +29,7 @@ image:
 </head>
 <body>
   
-# Contents
+<!-- # Contents
 <nav>
   <ul>
 	  <li><a href="#section1">Introduction</a></li>
@@ -40,13 +40,13 @@ image:
     <li><a href="#section6">Closing Ceremony</a></li>
    
   </ul>
-</nav>
-
+</nav> -->
+<img src="asset/media/paper6.jpg" alt="Qiskit Fall Fet 2024" width="85%"></td>
 <section id="section1">
   <h2>What is Qiskit Fall Fest ?</h2>
   <p>
 
-content need to be updated ...
+Qiskit Fall Fest is a collection of quantum computing events that invites students, researchers and industry professionals around the world to participate in a wide array of quantum-themed activities, ranging from quantum challenges, hackathons, and coding competitions to workshops, social events, and more.
 
   </p>
 </section>
