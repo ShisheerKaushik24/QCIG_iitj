@@ -41,7 +41,8 @@ image:
    
   </ul>
 </nav> -->
-<img src="asset/media/paper6.jpg" alt="Qiskit Fall Fet 2024" width="85%"></td>
+<img src="paper6.jpg" alt="Qiskit Fall Fet 2024" width="85%"></td>
+![](paper6.jpg)
 <section id="section1">
   <h2>What is Qiskit Fall Fest ?</h2>
   <p>
@@ -51,7 +52,7 @@ Qiskit Fall Fest is a collection of quantum computing events that invites studen
   </p>
 </section>
 
-![](vehicle.gif)
+
 
 <section id="section2">
   <h2>Who can Participate ?</h2>
