@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Quantum Computing
-        Innovators Group
+        Quantum Club IIT Jodhpur
       image:
         filename: welcome.png
       text: |
