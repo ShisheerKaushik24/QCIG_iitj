@@ -17,7 +17,7 @@ marketing:
     site_type: Organization
     local_business_type: 'ProfessionalService'
     org_name: ''
-    description: 'A Quantum Computing Innovators Group.'
+    description: 'Quantum Club IIT Jodhpur.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} QCIG Team. This work is licensed under {license}'
+    notice: '© {year} Quantum Club IIT Jodhpur. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -56,7 +56,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 10, 2024'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -82,7 +82,7 @@ features:
   comment:
     provider: 'giscus'
     disqus:
-      shortname: 'QCIG'
+      shortname: 'QC-IITJ'
       show_count: true
     commento:
       url: ''
@@ -111,5 +111,5 @@ features:
 # Citation style
 
 publications:
-  date_format: January 2006
+  date_format: January 2024
   citation_style: apa
