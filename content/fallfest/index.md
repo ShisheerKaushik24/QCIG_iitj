@@ -15,7 +15,7 @@ sections:
           image:
             filename: paper1.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
        
