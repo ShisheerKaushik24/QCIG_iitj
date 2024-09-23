@@ -16,7 +16,7 @@ sections:
         <div style="text-align: justify;">
         
               **Quantum Club IIT Jodhpur**
-              Group under MTech Quantum Technologies - IDRP at IIT Jodphur. Currently ran by MTech Students of MTech Quantum Technologies
+              is a group under MTech Quantum Technologies - IDRP at IIT Jodphur. Currently ran by MTech Students of MTech Quantum Technologies
           
         Since its establishment in 2023, the **Quantum Club IIT Jodhpur** (previously called as Quantum Computing Innovators Group) has served as a hub of excellence dedicated to the research, education and practical application of Quantum Technology.
     
